@@ -1,16 +1,36 @@
-## Hi there 👋
+# Selam! Ben Ahmet Yeniçeri 👋
 
-<!--
-**yncrahmet/yncrahmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GitHub profilime hoş geldin! Yazılım geliştirme dünyasında backend odaklı çalışan, öğrenmeye ve gelişmeye açık bir yazılımcıyım. Amacım, güçlü ve performanslı sistemler tasarlayıp geliştirmek. 
 
-Here are some ideas to get you started:
+## 🌱 Öğreniyor ve Geliştiriyorum
+Şu anda aşağıdaki alanlarda kendimi geliştiriyorum:  
+- **Spring Boot** ve mikroservis mimarileri  
+- **Apache Kafka** ile veri akışı yönetimi  
+- **Docker** kullanımı ve konteynerizasyon  
+- **Frontend teknolojileri**  
+- **Modern yazılım geliştirme yaklaşımları**: CI/CD ve Test Driven Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👯 İş Birliği İçin Açığım
+Özellikle aşağıdaki konularda iş birliği yapmak isterim:
+- Backend geliştirme (Java, Spring Boot)
+- API tasarımı ve entegrasyonu
+- Frontend öğrenirken farklı perspektiflerle birlikte gelişmek
+
+## 📫 Bana Ulaşın
+Bana hızlıca ulaşabilirsin:
+- **Email**: [yeniceriahmet02@gmail.com](mailto:yeniceriahmet02@gmail.com)
+- **LinkedIn**: [linkedin.com/in/yncrahmet](https://www.linkedin.com/in/yncrahmet/)
+
+## 📈 GitHub İstatistikleri
+![Yncrahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=yncrahmet&show_icons=true&theme=radical)
+
+## ⚡ Eğlenceli Bir Gerçek
+"Bir backend API’si düzgün çalışıyorsa, mutlaka biraz kahve ve bolca sabırla yazılmıştır." 😄
+
+## 🧑‍💻 Teknolojiler ve Araçlar
+Kullandığım teknolojiler ve araçlar:
+- **Diller**: Java, C#, Python, JavaScript
+- **Frameworkler**: Spring Boot
+- **Araçlar**: Git, Docker, Postman, IntelliJ IDEA, VS Code
+
+Teşekkürler uğradığın için! Görüşmek üzere. 🚀
