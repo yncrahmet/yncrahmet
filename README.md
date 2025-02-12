@@ -7,14 +7,12 @@ GitHub profilime hoş geldin! Yazılım geliştirme dünyasında backend odaklı
 - **Spring Boot** ve mikroservis mimarileri  
 - **Apache Kafka** ile veri akışı yönetimi  
 - **Docker** kullanımı ve konteynerizasyon  
-- **Frontend teknolojileri**  
 - **Modern yazılım geliştirme yaklaşımları**: CI/CD ve Test Driven Development  
 
 ## 👯 İş Birliği İçin Açığım
 Özellikle aşağıdaki konularda iş birliği yapmak isterim:
 - Backend geliştirme (Java, Spring Boot)
 - API tasarımı ve entegrasyonu
-- Frontend öğrenirken farklı perspektiflerle birlikte gelişmek
 
 ## 📫 Bana Ulaşın
 Bana hızlıca ulaşabilirsin:
