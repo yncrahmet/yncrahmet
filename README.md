@@ -30,5 +30,6 @@ Kullandığım teknolojiler ve araçlar:
 - **Diller**: Java, C#, Python, JavaScript
 - **Frameworkler**: Spring Boot
 - **Araçlar**: Git, Docker, Postman, IntelliJ IDEA, VS Code
+- **YouTube**: [Playlist](https://www.youtube.com/watch?v=YbI6J338xxw&list=RDEMWrywifcLeTLIvHbBwz5jEg&ab_channel=netdm%C3%BCzik)
 
 Teşekkürler uğradığın için! Görüşmek üzere. 🚀
